@@ -1,0 +1,5 @@
+exports.TOKEN = "TOKEN_BOT";
+
+exports.PREFIX = 'PREFIX_YOU_WANT';
+
+exports.OWNER_ID = "YOUR_ID_ACCOUNT"
