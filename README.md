@@ -1,4 +1,4 @@
-# Moderation Bot
+# Bot Discord for Moderation
 
 #### Requirements & Steps
 * Node.js, Discord.js Installed
