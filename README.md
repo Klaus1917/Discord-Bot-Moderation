@@ -1,7 +1,6 @@
 # Moderation Bot
 
 #### Requirements & Steps
-* This Project
 * Node.js, Discord.js Installed
 * Discord Bot Token, Prefix
 * Edit the `config.js and owner.json` file
@@ -11,8 +10,6 @@
 #### Features & Info
 * Author: `Blackk`
 * Moderation Bot built to manage discord servers.
-* This bot has all the premium commands too. Hackban/forceban [Type of ip ban] is also available
-* Modular Discord bot built entirely on pure JavaScript using Discord.JS.
 * Modlogs for all the actions.
 
 #### Commands
@@ -24,7 +21,7 @@
 * Hackban/Forceban | Unban
 * Kick
 * Lock channel | Unlock
-* Lockdown [Only for emergency scenarios] | Unlock
+* Lockdown | Unlock
 * Mute | Unmute
 * Purge
 * RoleAdd
@@ -32,10 +29,10 @@
 * RoleMemberInfo
 * SetNick
 * Slowmode
-* Svr [Server Region change]
-* VoiceMove [Move a peerson from one vc to another]
+* Svr
+* VoiceMove
 * Warn
 * Whois
 
-# Contributors:
+# Owners:
  * Blackk
